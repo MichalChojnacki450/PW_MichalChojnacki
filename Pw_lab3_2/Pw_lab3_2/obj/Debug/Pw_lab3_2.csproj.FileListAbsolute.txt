@@ -1,0 +1,9 @@
+E:\Users\MIchal\source\repos\Pw_lab3_2\Pw_lab3_2\bin\Debug\Pw_lab3_2.exe.config
+E:\Users\MIchal\source\repos\Pw_lab3_2\Pw_lab3_2\bin\Debug\Pw_lab3_2.exe
+E:\Users\MIchal\source\repos\Pw_lab3_2\Pw_lab3_2\bin\Debug\Pw_lab3_2.pdb
+E:\Users\MIchal\source\repos\Pw_lab3_2\Pw_lab3_2\obj\Debug\Pw_lab3_2.Form1.resources
+E:\Users\MIchal\source\repos\Pw_lab3_2\Pw_lab3_2\obj\Debug\Pw_lab3_2.Properties.Resources.resources
+E:\Users\MIchal\source\repos\Pw_lab3_2\Pw_lab3_2\obj\Debug\Pw_lab3_2.csproj.GenerateResource.cache
+E:\Users\MIchal\source\repos\Pw_lab3_2\Pw_lab3_2\obj\Debug\Pw_lab3_2.csproj.CoreCompileInputs.cache
+E:\Users\MIchal\source\repos\Pw_lab3_2\Pw_lab3_2\obj\Debug\Pw_lab3_2.exe
+E:\Users\MIchal\source\repos\Pw_lab3_2\Pw_lab3_2\obj\Debug\Pw_lab3_2.pdb
