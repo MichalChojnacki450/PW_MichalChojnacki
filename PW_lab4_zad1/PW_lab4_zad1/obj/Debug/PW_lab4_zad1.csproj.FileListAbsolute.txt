@@ -1,0 +1,11 @@
+E:\Users\MIchal\source\repos\PW_lab4_zad1\PW_lab4_zad1\bin\Debug\PW_lab4_zad1.exe.config
+E:\Users\MIchal\source\repos\PW_lab4_zad1\PW_lab4_zad1\bin\Debug\PW_lab4_zad1.exe
+E:\Users\MIchal\source\repos\PW_lab4_zad1\PW_lab4_zad1\bin\Debug\PW_lab4_zad1.pdb
+E:\Users\MIchal\source\repos\PW_lab4_zad1\PW_lab4_zad1\obj\Debug\PW_lab4_zad1.csprojAssemblyReference.cache
+E:\Users\MIchal\source\repos\PW_lab4_zad1\PW_lab4_zad1\obj\Debug\PW_lab4_zad1.Form1.resources
+E:\Users\MIchal\source\repos\PW_lab4_zad1\PW_lab4_zad1\obj\Debug\PW_lab4_zad1.Form2.resources
+E:\Users\MIchal\source\repos\PW_lab4_zad1\PW_lab4_zad1\obj\Debug\PW_lab4_zad1.Properties.Resources.resources
+E:\Users\MIchal\source\repos\PW_lab4_zad1\PW_lab4_zad1\obj\Debug\PW_lab4_zad1.csproj.GenerateResource.cache
+E:\Users\MIchal\source\repos\PW_lab4_zad1\PW_lab4_zad1\obj\Debug\PW_lab4_zad1.csproj.CoreCompileInputs.cache
+E:\Users\MIchal\source\repos\PW_lab4_zad1\PW_lab4_zad1\obj\Debug\PW_lab4_zad1.exe
+E:\Users\MIchal\source\repos\PW_lab4_zad1\PW_lab4_zad1\obj\Debug\PW_lab4_zad1.pdb
